@@ -1,19 +1,5 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+What accessibility enhancements were the most challenging to implement, and why? aria-describedby: not challenging, but rather i needed to read about it more to understand how to apply it, for example, should i add my own text in the quotes or should i reference an input, after reading and seeing other examples, i ended up referencing id.
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+How do ARIA attributes improve the experience for users relying on assistive technologies? never needed to use it but i'm assuming it improves it by letting the user how's using assistive technologies where are they on the page and when they move around they don't get lost on the page.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!# Lab-2.1-Interactive-Accessibility-Lesson
+What tools did you use to check color contrast, and how did they help? i used this website `https://accessibleweb.com/color-contrast-checker/` it shows contrast ratio also when picking 2 colors it shows the AA & AAA  pass or fail, it's really cool
